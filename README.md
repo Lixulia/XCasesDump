@@ -10,3 +10,5 @@ Uni = Universal Case for use of 6050, 6500, 9250, or BMI160. NOT RECOMMENDED UNL
 WinterX Public = The normal case and lid.
 
 Xtension Public = The extension for the bmi.
+
+I have also added the normal case lid and base seperate, for those with smaller printers.
