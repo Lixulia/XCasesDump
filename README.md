@@ -22,5 +22,9 @@ THE WINTERX AND SUMMERX CASES HAVE SEPERATED FILES, LABELED ACCORDINGLY!
 
 Xtension Public = The extension for the bmi.
 
+FOR STRAPS: I personally use custom straps made out of elastic, the winterx uses thicker 2in elastic, while summerx and the extensionx use 1in. 
+
+FOR WIRE: I use 26 AWG Wire.
+
 
 OLD VERSIONS WILL NOT BE SEPERATED UNLESS REQUESTED! They take too much space, and since they are outdated, I dont see it as necassary.
