@@ -1,5 +1,5 @@
 # WinterX//SummerX
-![hovertext](https://github.com/Reclusious/WinterX/main/Images/displaycasepic.png?raw=true)
+![hovertext](https://github.com/Reclusious/WinterX/main/Images/displaycasespic.png?raw=true)
 Case files for my design of slime trackers.
 
 Hello! 
