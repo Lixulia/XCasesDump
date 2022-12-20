@@ -4,6 +4,8 @@ Case files for my design of slime trackers.
 
 Hello! 
 
+Starting off, these cases are for the following compentents : 804040 Battery, BMI160, Wemos D1 Mini With wifi sheild, tpu4056 type C, aliexpress powerswitch (DPDT 2P2T). 
+
 The case files are as listed,
 
 Uni - Universal Case for use of 6050, 6500, 9250, or BMI160. NOT RECOMMENDED UNLESS YOU PLAN ON SWAPPING IMUS INTERCHANGABLY.
@@ -14,7 +16,7 @@ WinterX 1.2 - A New beta version of case, with better lid design.
 
 WinterX 2.0 - Newest Version of case! Smaller, and all friction fit. Fixed MANY issues. Lid is also extremely improved.
 
-SummerX - NEW CASE DESIGN! This case is a taller, but much more compact case design, similar to others like the hexaeder, battery is on bottom, removable tray.
+SummerX - NEW CASE DESIGN! This case is a bit taller, but much a more compact case design, similar to others like the hexaeder, battery is on bottom, removable tray.
 
 THE WINTERX AND SUMMERX CASES HAVE SEPERATED FILES, LABELED ACCORDINGLY!
 
