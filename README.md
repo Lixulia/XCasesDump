@@ -2,7 +2,7 @@
 
 Case files for my design of slime trackers.
 
-Hello! 
+Hello! I can see you've peaked into the secret branch. Not much is changed, only a couple new files uploaded... ;P
 
 The case files are as listed,
 
