@@ -14,9 +14,13 @@ WinterX 1.0 - The original case.
 
 WinterX 1.2 - A New beta version of case, with better lid design.
 
-WinterX 2.0 - Newest Version of case! Smaller, and all friction fit. Fixed MANY issues. Lid is also extremely improved.
+WinterX 2.0 - Smaller, and all friction fit. Fixed MANY issues. Lid is also extremely improved.
+
+WinterX 2.1 - slight problem fix for 2.0
 
 SummerX - NEW CASE DESIGN! This case is a bit taller, but much a more compact case design, similar to others like the hexaeder, battery is on bottom, removable tray.
+
+SummerX 1.1 - Fix to 1.0
 
 THE WINTERX AND SUMMERX CASES HAVE SEPERATED FILES, LABELED ACCORDINGLY!
 
