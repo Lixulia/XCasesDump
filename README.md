@@ -8,6 +8,8 @@ Starting off, these cases are for the following compentents : 804040 Battery, BM
 
 The case files are as listed,
 
+JelloX - Added mostly as a joke, this is a design made to resemble the slime offical cases. Its essentially the summerx. Same components, same tray.
+
 Uni - Universal Case for use of 6050, 6500, 9250, or BMI160. NOT RECOMMENDED UNLESS YOU PLAN ON SWAPPING IMUS INTERCHANGABLY.
 
 WinterX 1.0 - The original case.
